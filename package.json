@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "expr-eval": "^2.0.2",
+    "express-session": "^1.18.1"
+  }
+}
