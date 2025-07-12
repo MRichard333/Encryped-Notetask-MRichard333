@@ -1,81 +1,71 @@
-# Encryped-Notetask-MRichard333
-# Encrypted NoteTask — Secure & Local ToDo + Notes App 🔐
+# 🔐 Encrypted ToDo App — Cross-Platform Secure Task Manager
 
-MIT License Node.js ≥ 14.x React ≥ 18.x
+Welcome to the **Encrypted ToDo** app — your **privacy-first**, **offline**, and **cross-platform** task manager. Built with _Electron_, _React_, _Express_, and _SQLite_, this app ensures that **your data stays on your device and encrypted** at all times.
 
-A **fully local, encrypted** ToDo and Notes app with programmable rules and passphrase-based encryption to keep your data secure. Built with React, Node.js, and SQLite.
+## ✅ Features
 
-## Features
+*   🛡️ **End-to-End AES-256 Encryption**
+*   🧠 **Programmable Logic Rules** (e.g., auto-delete old tasks, highlight by keyword)
+*   🌓 **Dark Mode + Neoviolet Theme**
+*   💻 **Offline-first**: Works without internet access
+*   🔐 **Passphrase Protected**: Change anytime with brute-force protection
+*   ⚡ **Fast & Lightweight**: No cloud, no tracking, no bloat
+*   📦 **One-Click Cross-Platform Installers** for Windows, macOS, and Linux
 
-*   AES-256-CBC encryption of all notes & todos, locked by your passphrase
-*   Manage todos with urgency & reminders (reminders coming soon)
-*   Create, update, delete todos securely
-*   Change your passphrase securely without data loss
-*   Dark mode and smooth UI transitions
-*   Designed for local use, no cloud syncing
-*   Simple programmable rule system for task highlighting
-*   Open source and self-hosted, you control your data
+## 🚀 Download & Install
 
-## Demo
+Go to the latest release here:  
+👉 [📥 Download from Releases](https://github.com/MRichard333/Encryped-Notetask-MRichard333/releases/tag/Crossplatform)
 
-![Screenshot of the app](./screenshot.png)
+| Platform | File | Notes |
+| --- | --- | --- |
+| 🪟 Windows | `.exe` | Double-click to install |
+| 🍎 macOS | `.dmg` | Drag to Applications | Comming soon!
+| 🐧 Linux | `.AppImage` or `.deb` | Works on most distros, see below |
 
-## Getting Started
+## 🐧 Linux Users
 
-### Prerequisites
-
-*   Node.js v14 or higher
-*   npm or yarn
-*   Git
-
-### Installation
+You can run the `.AppImage` directly or install via:
 
 ```
-git clone https://github.com/MRichard333/Encryped-Notetask-MRichard333.git
-cd Encryped-Notetask-MRichard333
-npm install
-cd client
-npm install
+sudo dpkg -i Encrypted-ToDo.deb
+sudo apt-get install -f
 ```
 
-### Running Locally
+Or mark the `.AppImage` as executable and run it:
 
 ```
-# Start backend server
-node server/app.js
-
-# In another terminal, start React frontend (dev mode)
-cd client
-npm start
-
-# Then visit http://localhost:3000 in your browser
+chmod +x Encrypted-ToDo.AppImage
+./Encrypted-ToDo.AppImage
 ```
 
-### Building for Production
+## 🧠 How it Works
 
-```
-cd client
-npm run build
-cd ..
-node server/app.js
+*   Runs entirely locally using an encrypted SQLite database.
+*   All tasks are encrypted using AES-256-CBC with a SHA-256 derived key.
+*   You can define logic rules directly in the UI to customize behavior.
+*   No internet connection is needed; no data is ever sent online.
 
-# Visit http://localhost:3001
-```
+## 👨‍💻 Tech Stack
 
-## Usage
+*   Frontend: **React + TailwindCSS**
+*   Backend: **Node.js + Express**
+*   Database: **SQLite (encrypted)**
+*   Security: **AES-256**, **bcrypt**, **rate limiting**
+*   Packaging: **Electron Builder**
 
-\- On first launch, **set your encryption passphrase** — this will secure your data.  
-\- Use the intuitive UI to add, edit, and delete todos.  
-\- Change your passphrase anytime via the settings menu.  
-\- Your data is stored encrypted locally in an SQLite database.
+## 📖 Documentation
 
-## Contributing
+Coming soon! For now, check out the source code and feel free to open an issue if you have questions.
 
-Contributions and improvements are welcome! Please open issues or pull requests.
+## ❤️ Contribute
 
-## License
+*   [Open an Issue](https://github.com/MRichard333/Encryped-Notetask-MRichard333/issues)
+*   Submit a Pull Request
+*   Star ⭐ the repo if you find it useful!
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+**Built with love by [@MRichard333](https://github.com/MRichard333)**
 
 ## About
 
