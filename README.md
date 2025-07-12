@@ -19,7 +19,7 @@ Go to the latest release here:
 
 | Platform | File | Notes |
 | --- | --- | --- |
-| 🪟 Windows | `.exe` | Double-click to install |
+| 🪟 Windows | `.exe` Comming soon!| Double-click to install |
 | 🍎 macOS | `.dmg` Comming soon! | Drag to Applications |
 | 🐧 Linux | `.AppImage` or `.deb` | Works on most distros, see below |
 
