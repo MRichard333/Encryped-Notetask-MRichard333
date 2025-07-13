@@ -42,9 +42,12 @@ chmod +x Encrypted-ToDo.AppImage
 ## 🧠 How it Works
 
 *   Runs entirely locally using an encrypted SQLite database.
-*   All tasks are encrypted using AES-256-CBC with a SHA-256 derived key.
+*   All tasks are encrypted using AES-256-GCM with a SHA-256 derived key.
 *   You can define logic rules directly in the UI to customize behavior.
 *   No internet connection is needed; no data is ever sent online.
+
+<img width="503" height="197" alt="crypto1" src="https://github.com/user-attachments/assets/477b33ed-473e-4e5b-adc8-c5b0dffc90b0" />
+
 
 ## 👨‍💻 Tech Stack
 
