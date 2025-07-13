@@ -50,7 +50,7 @@ chmod +x Encrypted-ToDo.AppImage
 *   Frontend: **React + TailwindCSS**
 *   Backend: **Node.js + Express**
 *   Database: **SQLite (encrypted)**
-*   Security: **AES-256**, **bcrypt**, **rate limiting**
+*   Security: **AES-256**, **Argon2**, **rate limiting**
 *   Packaging: **Electron Builder**
 
 ## 📖 Documentation
