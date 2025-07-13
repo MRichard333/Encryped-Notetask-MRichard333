@@ -25,11 +25,10 @@ Go to the latest release here:
 
 ## 🐧 Linux Users
 
-You can run the `.AppImage` directly or install via:
+You can run the `.AppImage` directly:
 
 ```
-sudo dpkg -i Encrypted-ToDo.deb
-sudo apt-get install -f
+sudo apt install ./Encrypted-ToDo.deb
 ```
 
 Or mark the `.AppImage` as executable and run it:
