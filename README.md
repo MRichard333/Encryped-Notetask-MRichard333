@@ -69,6 +69,6 @@ Coming soon! For now, check out the source code and feel free to open an issue i
 
 ## About
 
-Made with ❤️ by [MRichard333](https://MRichard333.com) — supporting non-profit organizations through open-source software. Proudly developed in Canada.
+Made with ❤️ by [MRichard333](https://MRichard333.com) — A non-profit organizations about Cybersecurity and Fraud-Prevention. Proudly developed in Canada.
 
 © 2025 MRichard333
