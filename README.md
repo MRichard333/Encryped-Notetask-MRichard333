@@ -29,7 +29,6 @@ You can run the `.AppImage` directly or install via:
 
 ```
 sudo apt install ./encrypted-todo-app.deb // change suggested by ChadSec from dpkg to apt
-sudo apt-get install -f
 ```
 
 Or mark the `.AppImage` as executable and run it:
