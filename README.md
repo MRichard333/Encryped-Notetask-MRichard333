@@ -15,11 +15,12 @@ Welcome to the **Encrypted ToDo** app — your **privacy-first**, **offline**, a
 ## 🚀 Download & Install
 
 Go to the latest release here:  
-👉 [📥 Download from Releases](https://github.com/MRichard333/Encryped-Notetask-MRichard333/releases/tag/Crossplatform)
+👉 Linux   [📥 Download from Releases](https://github.com/MRichard333/Encryped-Notetask-MRichard333/releases/tag/Crossplatform)
+👉 Windows [📥 Download from Releases](https://github.com/MRichard333/Encryped-Notetask-MRichard333/releases/tag/Windows)
 
 | Platform | File | Notes |
 | --- | --- | --- |
-| 🪟 Windows | `.exe` Comming soon!| Double-click to install |
+| 🪟 Windows | `.exe` | Double-click to install |
 | 🍎 macOS | `.dmg` Comming soon! | Drag to Applications |
 | 🐧 Linux | `.AppImage` or `.deb` | Works on most distros, see below |
 
