@@ -12,6 +12,13 @@ Welcome to the **Encrypted ToDo** app — your **privacy-first**, **offline**, a
 *   ⚡ **Fast & Lightweight**: No cloud, no tracking, no bloat
 *   📦 **One-Click Cross-Platform Installers** for Windows, macOS, and Linux
 
+<img width="1206" height="770" alt="todoappopen" src="https://github.com/user-attachments/assets/d0e87411-c924-4b10-a2df-923b63e22ebe" />
+
+<img width="1280" height="800" alt="Todoapp1" src="https://github.com/user-attachments/assets/8d011cc6-285a-425e-a54f-0ca6cf9c24ea" />
+
+<img width="1280" height="800" alt="todoapp2" src="https://github.com/user-attachments/assets/6c169872-4fa8-49df-8b6d-5a3867e76456" />
+
+
 ## 🚀 Download & Install
 
 Go to the latest release here:  
